@@ -61,6 +61,8 @@ src/
 │── index.css               # Tailwind imports
 ```
 
+zip file: https://drive.google.com/file/d/1jTLV_ZYOD4JbOLLGZAAQYC8fV2GmE2ju/view?usp=sharing
+
 ## Installation
 cd react-task-management
 npm install
@@ -84,4 +86,4 @@ App runs at:- http://localhost:3000
 
 Deploy link: https://anilabsoluteassignment.vercel.app
 
-zip file: https://drive.google.com/file/d/1jTLV_ZYOD4JbOLLGZAAQYC8fV2GmE2ju/view?usp=sharing
+
