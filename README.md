@@ -82,5 +82,5 @@ App runs at:- http://localhost:3000
 5. Admin can drag and drop tasks to reassign them.
 6. Logout is available in the header.
 
-Deploy link: 
+Deploy link: https://anilabsoluteassignment.vercel.app
 
